@@ -1,0 +1,89 @@
+# 订阅链接
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/ssrsub/ssr/master/V2Ray
+
+#############自己加
+- type: subscribe
+  options:
+    url: https://iwxf.netlify.app
+
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/ssrsub/ssr/master/ss-sub
+
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/ssrsub/ssr/master/ssrsub
+
+# - type: subscribe
+#   options:
+#     url: https://raw.githubusercontent.com/alanbobs999/TopFreeProxies/master/sub/sub_merge_base64.txt
+
+
+####
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/SS.md
+
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/SSR.md
+
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/v2ray.md
+
+#########
+# 订阅链接
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/skywolf627/VmessActions/main/subscribe/vmess.txt
+
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/skywolf627/VmessActions/main/subscribe/trojan.txt
+
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/freefq/free/master/ssr
+
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/learnhard-cn/free_proxy_ss/main/v2ray/v2raysub
+
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/freefq/free/master/v2
+
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/yc20013/vm/main/a
+
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/1768605134/Vmess/main/README.md
+
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/colatiger/v2ray-nodes/master/vmess.md
+
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/xiaotangmu8/vmess/main/vmess.md
+
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/v2ray.md
+
+- type: subscribe
+  options:
+    url: https://jiang.netlify.app/
+
+- type: subscribe
+  options:
+    url: https://youlianboshi.netlify.app/
+
+- type: subscribe
+  options:
+    url: https://v2ray.banyunxiaoxi.ml/

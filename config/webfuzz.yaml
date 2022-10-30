@@ -1,0 +1,7 @@
+- type: webfuzz
+  options:
+    url: https://merlinblog.xyz/wiki/freess.html
+
+- type: webfuzz
+  options:
+    url: https://github.com/freefq/free
